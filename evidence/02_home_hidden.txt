@@ -1,0 +1,24 @@
+total 100
+drwxr-x--- 16 laibah-bakhtawar laibah-bakhtawar  4096 Oct 16 06:51 .
+drwxr-xr-x  3 root             root              4096 Sep 18 08:34 ..
+-rw-------  1 laibah-bakhtawar laibah-bakhtawar 10237 Oct 10 15:31 .bash_history
+-rw-r--r--  1 laibah-bakhtawar laibah-bakhtawar   220 Feb 13  2026 .bash_logout
+-rw-r--r--  1 laibah-bakhtawar laibah-bakhtawar  3772 Oct  4 09:20 .bashrc
+drwx------  4 laibah-bakhtawar laibah-bakhtawar  4096 Oct 10 12:55 .cache
+drwxrwxr-x  3 laibah-bakhtawar laibah-bakhtawar  4096 Oct  4 10:46 .config
+drwx------  3 laibah-bakhtawar laibah-bakhtawar  4096 Oct  4 10:46 .copilot
+-rw-rw-r--  1 laibah-bakhtawar laibah-bakhtawar   285 Oct 16 06:50 .gitconfig
+-rw-------  1 laibah-bakhtawar laibah-bakhtawar    20 Oct  4 15:44 .lesshst
+drwx------  3 laibah-bakhtawar laibah-bakhtawar  4096 Oct  3 17:07 .local
+-rw-r--r--  1 laibah-bakhtawar laibah-bakhtawar   807 Feb 13  2026 .profile
+drwx------  2 laibah-bakhtawar laibah-bakhtawar  4096 Oct  4 08:38 .ssh
+drwxr-x---  5 laibah-bakhtawar laibah-bakhtawar  4096 Oct  4 15:06 .vscode-server
+-rw-rw-r--  1 laibah-bakhtawar laibah-bakhtawar   183 Oct  4 10:41 .wget-hsts
+drwxrwxr-x  3 laibah-bakhtawar laibah-bakhtawar  4096 Oct 10 13:23 Assignment01
+drwxrwxr-x  3 laibah-bakhtawar laibah-bakhtawar  4096 Oct  9 12:55 Assignments
+drwxrwxr-x  3 laibah-bakhtawar laibah-bakhtawar  4096 Oct 10 11:57 Gitea
+drwxrwxr-x  3 laibah-bakhtawar laibah-bakhtawar  4096 Oct  3 17:32 Lab02
+drwxrwxr-x  3 laibah-bakhtawar laibah-bakhtawar  4096 Oct  4 13:44 Lab03
+drwxrwxr-x  3 laibah-bakhtawar laibah-bakhtawar  4096 Oct  4 15:20 Lab03-Practice
+drwxrwxr-x  5 laibah-bakhtawar laibah-bakhtawar  4096 Oct 16 06:51 lab05-linux
+drwxrwxr-x  3 laibah-bakhtawar laibah-bakhtawar  4096 Oct  4 15:42 laibah-bakhtawar.github.io
