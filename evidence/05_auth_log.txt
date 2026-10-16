@@ -1,0 +1,13 @@
+2026-10-16T07:35:32.407857+00:00 ubuntu sudo: laibah-bakhtawar : TTY=/dev/pts/1 ; PWD=/home/laibah-bakhtawar/lab05-linux ; USER=root ; COMMAND=/usr/sbin/adduser lab5user
+2026-10-16T07:35:32.601894+00:00 ubuntu groupadd[20190]: group added to /etc/group: name=lab5user, GID=1001
+2026-10-16T07:35:32.609509+00:00 ubuntu groupadd[20190]: group added to /etc/gshadow: name=lab5user
+2026-10-16T07:35:32.610273+00:00 ubuntu groupadd[20190]: new group: name=lab5user, GID=1001
+2026-10-16T07:35:32.660564+00:00 ubuntu useradd[20195]: new user: name=lab5user, UID=1001, GID=1001, home=/home/lab5user, shell=/bin/bash, from=/dev/pts/2
+2026-10-16T07:35:42.849488+00:00 ubuntu passwd[20206]: pam_unix(passwd:chauthtok): password changed for lab5user
+2026-10-16T07:36:15.004302+00:00 ubuntu chfn[20210]: changed user 'lab5user' information
+2026-10-16T07:36:37.263003+00:00 ubuntu gpasswd[20218]: members of group users set by root to laibah-bakhtawar,lab5user
+2026-10-16T07:38:23.875775+00:00 ubuntu su[20254]: (to lab5user) laibah-bakhtawar on pts/1
+2026-10-16T07:38:23.880784+00:00 ubuntu su[20254]: pam_unix(su-l:session): session opened for user lab5user(uid=1001) by laibah-bakhtawar(uid=1000)
+2026-10-16T07:40:38.527410+00:00 ubuntu su[20254]: pam_unix(su-l:session): session closed for user lab5user
+2026-10-16T07:40:50.640844+00:00 ubuntu sudo: laibah-bakhtawar : TTY=/dev/pts/1 ; PWD=/home/laibah-bakhtawar/lab05-linux ; USER=root ; COMMAND=/usr/bin/grep lab5user /var/log/auth.log
+2026-10-16T07:41:10.903922+00:00 ubuntu sudo: laibah-bakhtawar : TTY=/dev/pts/1 ; PWD=/home/laibah-bakhtawar/lab05-linux ; USER=root ; COMMAND=/usr/bin/grep lab5user /var/log/auth.log
